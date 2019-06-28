@@ -25,7 +25,7 @@
 	{
 
 
-		background: #4AA0E4 url(images/img01.jpg) repeat;
+		background: #0c488f url(images/img01.png) repeat;
 
 
 	}
@@ -2245,7 +2245,14 @@
 	}
 
 
+	#header-wrapper
 
+
+	{
+
+		background-image: url('images/eletrical_engineers3_2.jpg')
+
+	}
 
 
 	#logo {
@@ -2268,6 +2275,7 @@
 
 	#logo h1 a {
 
+		font-family: 'Times New Roman', Times, serif;
 
 		display: block;
 
@@ -2275,7 +2283,7 @@
 		padding: 30px 0px 0px 0px;
 
 
-		letter-spacing: -1px;
+		letter-spacing: 3px;
 
 
 		text-align: center;
@@ -2307,6 +2315,8 @@
 
 	#logo span {
 
+		font-family: 'Times New Roman', Times, serif;
+
 
 		display: inline-block;
 
@@ -2314,19 +2324,19 @@
 		padding: 10px 0px 0px 0px;
 
 
-		letter-spacing: -1px;
+		letter-spacing: 1px;
 
 
 		text-align: center;
 
 
-		text-shadow: -1px -1px 0px #388ACA;
+		/*text-shadow: -1px -1px 0px #388ACA;*/
 
 
 		font-size: 18pt;
 
 
-		color: #A5D0F2;
+		color: #FFFFFF;
 
 
 	}
@@ -2338,10 +2348,10 @@
 	#menu-wrapper {
 
 
-		height: 90px;
+		height: 88px;
 
 
-		background: url(images/img05.jpg) no-repeat center top;
+		background: url(images/img05.png) no-repeat center top;
 
 
 	}
@@ -2654,6 +2664,7 @@
 
 
 	{
+
 
 
 	}
